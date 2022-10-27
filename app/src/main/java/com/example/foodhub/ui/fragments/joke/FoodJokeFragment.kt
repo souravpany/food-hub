@@ -1,4 +1,4 @@
-package com.example.foodhub.ui.main.joke
+package com.example.foodhub.ui.fragments.joke
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
